@@ -1,0 +1,12 @@
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\bin\Debug\net6.0\LittleBoxOS.deps.json
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\bin\Debug\net6.0\LittleBoxOS.dll
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\bin\Debug\net6.0\LittleBoxOS.pdb
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\obj\Debug\net6.0\LittleBoxOS.csproj.AssemblyReference.cache
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\obj\Debug\net6.0\LittleBoxOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\obj\Debug\net6.0\LittleBoxOS.AssemblyInfoInputs.cache
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\obj\Debug\net6.0\LittleBoxOS.AssemblyInfo.cs
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\obj\Debug\net6.0\LittleBoxOS.csproj.CoreCompileInputs.cache
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\obj\Debug\net6.0\LittleBoxOS.dll
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\obj\Debug\net6.0\refint\LittleBoxOS.dll
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\obj\Debug\net6.0\LittleBoxOS.pdb
+C:\Users\TEDD\source\repos\LittleBoxOS\LittleBoxOS\obj\Debug\net6.0\ref\LittleBoxOS.dll

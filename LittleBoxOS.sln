@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleBoxOS", "LittleBoxOS\LittleBoxOS.csproj", "{A570D630-6518-4E83-8AC4-0CADD160E899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A570D630-6518-4E83-8AC4-0CADD160E899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A570D630-6518-4E83-8AC4-0CADD160E899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A570D630-6518-4E83-8AC4-0CADD160E899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A570D630-6518-4E83-8AC4-0CADD160E899}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0955F8F-FC4E-45C5-A5CD-AC055481F4F6}
+	EndGlobalSection
+EndGlobal
